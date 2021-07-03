@@ -1,3 +1,3 @@
 # Current scripts :
 
-1. Blender reFarm - youtube.com/shorts/J74n0DoLaOw
+1. Blender reFarm - v2.2 Guide yet to be released
